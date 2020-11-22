@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606080362 source:e:\projects\datastructureswithc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1606076554 e:\projects\datastructureswithc\stack.h
+
+1606076601 source:e:\projects\datastructureswithc\stack.c
+	<stdio.h>
+	"Stack.h"
+
